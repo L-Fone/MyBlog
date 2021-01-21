@@ -90,7 +90,7 @@
           <div class="auth-actions">
             <a-dropdown placement="bottomRight">
               <span>
-                Admin
+                L-Fone
                 <a-icon type="down" />
               </span>
               <a-menu slot="overlay">

@@ -2,12 +2,12 @@
   <div class="layout-footer">
     {{ year }} © Powered by
     <a
-      href="https://github.com/eshengsky/iBlog"
+      href="https://github.com/L-Fone"
       target="_blank"
-    >iBlog</a>
+    >L-Fone</a>
     <span v-if="settings.recordInfo" class="record-info">
       |
-      <a href="http://www.beian.miit.gov.cn">{{ settings.recordInfo }}</a>
+      <a href="https://beian.miit.gov.cn/" target="_blank">{{ settings.recordInfo }}</a>
     </span>
     <span v-if="showLogin" class="admin-link">
       |

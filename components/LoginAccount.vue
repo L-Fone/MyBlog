@@ -4,7 +4,7 @@
       后台登录
     </h2>
     <p class="auth-desc">
-      Admin
+      L-Fone
     </p>
     <div class="auth-input">
       <a-input-password
